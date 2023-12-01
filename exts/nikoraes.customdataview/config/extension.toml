@@ -13,13 +13,13 @@ description = "An extension to display the custom data attributes for the select
 readme = "docs/README.md"
 
 # URL of the extension source repository.
-repository = ""
+repository = "https://github.com/nikoraes/omni-customdata-view"
 
 # One of categories for UI.
-category = "Example"
+category = "CustomData"
 
 # Keywords for the extension
-keywords = ["kit", "example"]
+keywords = ["kit", "customdata", "attributes", "prim"]
 
 # Location of change log file in target (final) folder of extension, relative to the root.
 # More info on writing changelog: https://keepachangelog.com/en/1.0.0/
