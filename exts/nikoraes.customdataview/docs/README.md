@@ -1,4 +1,5 @@
-# Python Extension Example [nikoraes.customdataview]
+# Custom Data View Extension [nikoraes.customdataview]
 
-This is an example of pure python Kit extension. It is intended to be copied and serve as a template to create new extensions.
+An Omniverse Kit extension to display CustomData attributes of the selected Prim.
+Supports nested CustomData attributes and shows them in a TreeView.
 
